@@ -4,7 +4,7 @@
 - 📫 My Email Adress is aayushman230@gmail.com
 - I am currently pursuing Bachelor in Technology Honours in Computer Science with specilization in Artificial Intelligence and Machine Learning. 
 
-- Hobbies : I like to listen Music, Sketching and I am learning different languages (Japnese, Korean, Dutch) and sometimes I like to watch Anime.
+- Hobbies : I like to listen Music, Sketching and I am learning different languages (Japnese, Korean, Dutch).
 
 - Strength : Leadership Skill, Intrested in Python,C++ Programming Languages, have basic knowledge of HTML.
 <!---
