@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aayushman028
 - 👀 I’m intrested in Webdevelopment and more.
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning Python and C++
 - 📫 My Email Adress is aayushman230@gmail.com
 - I am currently pursuing Bachelor in Technology Honours in Computer Science with specilization in Artificial Intelligence and Machine Learning. 
 
