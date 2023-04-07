@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayushman Sharma</h1>
-<h3 align="center">I’m intrested in Webdevelopment and more.</h3>
+<h3 align="center">I’m intrested in AIML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushman028&label=Profile%20views&color=0e75b6&style=flat" alt="aayushman028" /> </p>
 
