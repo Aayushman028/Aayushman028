@@ -5,7 +5,9 @@
 
 - 📫 How to reach me : **aayushman230@gmail.com**
 
-- ⚡ Hobbies : **I like to listen Music, Sketching and I am learning different languages (Japnese, Korean, Dutch).**
+- ⚡ Hobbies : **I like to listen Music, Sketching and I am learning different languages (Japnese, Dutch).**
+
+- My Skills : **Teamwork, Leadership, Managment.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
