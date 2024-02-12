@@ -2,7 +2,7 @@
 
 Hello Everyone, I am a 3rd Year Student at Galgotias University pursuing B.Tech CSE Specialisation in <br>AI & ML. I am interested in Data Analytics and working in many projects related to this field. <br><br>Hobby : I like Music, Novels, I am interested in Languages (Japanese & German).<br>Skills : Leadership, Teamwork, Management, Project Lead, Planning.<br><br>Projects : Movie Recommendation System, Football Players Performance Prediction, Titanic Classification, Mental Health Prediction
 <br>Contact : aayushman230@gmail.com
-- 📝 I write articles on [Hashnode](https://aayushman.hashnode.dev).
+- 📝 I write articles on [Byte Brew](https://aayushman.hashnode.dev).
 
 
 
